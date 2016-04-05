@@ -125,7 +125,7 @@ Into your build.gradle:
 
 repositories {
   maven {
-    url "https://github.com"
+    url "https://jitpack.io"
   }
 }
 
@@ -135,7 +135,7 @@ dependencies {
 ```
 
 
-Do you will use with lists(RecyclerView, List/GridView, ScrollView)?
+Will you use with lists(RecyclerView, List/GridView, ScrollView)?
 --------------------------------------------------------------------
 
 I decided that need to be Out-Of-Box, then...
